@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @categrd
 - 👀 I’m interested in Machine Learning
+- 🎓 I majored in Computer Engineering (BSc) @ Università degli Studi di Firenze
 - 🌱 I’m currently following the Artificial Intelligence MSc @ Politecnico di Milano
 - 📫 Reach me via mail giardicaterina@gmail.com
 
