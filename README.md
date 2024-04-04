@@ -1,4 +1,4 @@
-# Hi, I’m Caterina Giardi
+# Hi, I’m Caterina Giardi 👋🏻
 - 👀 I’m interested in Machine Learning, Artificial Neural Networks and emerging technologies.
 - 🎓 I majored in Computer Engineering (BSc) @ Università degli Studi di Firenze in 2022
 - 🌱 I’m currently following the Artificial Intelligence MSc @ Politecnico di Milano (expected graduation year 2025)
