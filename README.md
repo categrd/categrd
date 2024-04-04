@@ -5,6 +5,7 @@
 - 📫 Reach me via mail giardicaterina@gmail.com
 
 Check out my Linkedin Profile, where I share more about my education and project achievements.
+
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/caterina-giardi-187a32301/)
 
 
